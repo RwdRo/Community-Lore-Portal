@@ -1,0 +1,17 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {createHash} from 'node:crypto';import {SOURCE_STORIES} from '../src/constants/sourceArchive';import {transformProposalToLoreEntry} from '../src/services/canonService';import {selectNarrativeFile,extractAddedMarkdownFromUnifiedDiff} from '../server/githubPrNarrative.js';
+const hash=(text:string)=>createHash('sha256').update(text).digest('hex');
+test('parent titles retain complete chapters and source-derived offsets',()=>{
+ const earth=SOURCE_STORIES.find(s=>s.title==='Echoes of Earth')!;assert.ok(earth);assert.ok(earth.content.includes('## UNITY TESTED'));assert.ok(earth.content.includes("## THE ALCAZAR'S EDGE"));assert.ok(earth.legacyIds?.includes('canon_16'));assert.ok(!SOURCE_STORIES.some(s=>s.title==='UNITY TESTED'));
+ const harmony=SOURCE_STORIES.find(s=>s.title.startsWith('The Eternal Harmony'))!;assert.ok(harmony.content.includes('## The Cataclysm'));assert.ok(harmony.content.includes('## A New Chapter'));assert.equal(harmony.sourceHash,hash(harmony.content));
+ for(const story of SOURCE_STORIES){assert.equal(hash(story.content),story.sourceHash);for(const chapter of story.chapters||[])assert.ok(story.content.slice(chapter.offset,chapter.offset+1)==='#');assert.match(story.sourceUrl!,/blob\/[a-f0-9]{40}\/README.md#L\d+$/);}
+});
+test('1200-character previews are explicitly incomplete; full delivery preserves the last paragraph',()=>{
+ const source=JSON.parse(fs.readFileSync('server/data/verified_pr_sources.json','utf8'))['85'];const base:any={id:'lore_worlds_85',proposal_id:85,title:'Cradle of Secrets by Aaliyah.md',content:source.content.slice(0,400),narrative_content:source.content.slice(0,1200),narrative_title:source.title,narrative_source_status:'resolved',status:0,status_label:'active',content_complete:0};
+ const preview=transformProposalToLoreEntry(base);assert.equal(preview.content.length,1200);assert.equal(preview.contentComplete,false);
+ const full=transformProposalToLoreEntry({...base,narrative_content:source.content,content_complete:1});assert.equal(full.contentComplete,true);assert.equal(full.content,source.content.trim());assert.equal(full.title,'Cradle of secrets');assert.ok(full.content.includes('the real war was just beginning.'));assert.ok(!full.content.includes('Alien Worlds Lore Treatment'));
+});
+test('renamed README is resolved as additions, not the entire renamed archive',()=>{
+ const file={filename:'Cradle of Secrets by Aaliyah.md',previous_filename:'README.md',status:'renamed'};assert.equal(selectNarrativeFile([file]).strategy,'readme_patch');
+ const diff='diff --git a/README.md b/Cradle of Secrets by Aaliyah.md\nrename from README.md\nrename to Cradle of Secrets by Aaliyah.md\n--- a/README.md\n+++ b/Cradle of Secrets by Aaliyah.md\n@@ -1 +1,2 @@\n unchanged archive\n+## Cradle of secrets\n+The new story.';assert.equal(extractAddedMarkdownFromUnifiedDiff(diff,file.filename),'## Cradle of secrets\nThe new story.');
+});
+test("all 119 legacy links resolve to verified full sources",()=>{const redirects=JSON.parse(fs.readFileSync("server/data/legacy_source_redirects.json","utf8"));assert.equal(Object.keys(redirects).length,119);for(const target of Object.values(redirects) as any[])assert.ok(SOURCE_STORIES.some(s=>s.id===target.id)||target.id==="lore_worlds_85");assert.equal(redirects.canon_add_119.id,"lore_worlds_85");});

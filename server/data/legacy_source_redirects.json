@@ -1,0 +1,478 @@
+{
+  "canon_1": {
+    "id": "source_alien-worlds-lore-treatment",
+    "title": "Alien Worlds Lore Treatment"
+  },
+  "canon_2": {
+    "id": "source_trilium",
+    "title": "TRILIUM"
+  },
+  "canon_3": {
+    "id": "source_the-primary-races",
+    "title": "THE PRIMARY RACES"
+  },
+  "canon_4": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_5": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_6": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_7": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_8": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_9": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_10": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_11": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_12": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_13": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_14": {
+    "id": "source_lore-blog-series-master-doc",
+    "title": "Lore Blog Series: Master Doc"
+  },
+  "canon_15": {
+    "id": "source_echoes-of-earth",
+    "title": "Echoes of Earth"
+  },
+  "canon_16": {
+    "id": "source_echoes-of-earth",
+    "title": "Echoes of Earth"
+  },
+  "canon_17": {
+    "id": "source_echoes-of-earth",
+    "title": "Echoes of Earth"
+  },
+  "canon_18": {
+    "id": "source_echoes-of-earth",
+    "title": "Echoes of Earth"
+  },
+  "canon_19": {
+    "id": "source_the-rise-of-the-stjerneblods",
+    "title": "The Rise of the Stjerneblods"
+  },
+  "canon_20": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_21": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_22": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_23": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_24": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_25": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_26": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_27": {
+    "id": "source_the-pilgrimage-of-the-lopati-by-kenny",
+    "title": "THE PILGRIMAGE OF THE LOPATI by Kenny"
+  },
+  "canon_28": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_29": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_30": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_31": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_32": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_33": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_34": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_35": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_36": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_37": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_38": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_39": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_40": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_41": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_42": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_43": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_44": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_45": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_46": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_47": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_48": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_49": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_50": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_51": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_52": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_53": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_54": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_55": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_56": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_57": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_58": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_59": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_60": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_61": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_62": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_63": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_64": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_65": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_66": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_67": {
+    "id": "source_the-eternal-harmony-a-tale-of-lopati-s-heritage-and-celebration",
+    "title": "The Eternal Harmony: A Tale of Lopati's Heritage and Celebration"
+  },
+  "canon_add_68": {
+    "id": "source_the-last-face",
+    "title": "The Last Face"
+  },
+  "canon_68": {
+    "id": "source_the-last-face",
+    "title": "The Last Face"
+  },
+  "canon_69": {
+    "id": "source_the-last-face",
+    "title": "The Last Face"
+  },
+  "canon_70": {
+    "id": "source_the-last-face",
+    "title": "The Last Face"
+  },
+  "canon_71": {
+    "id": "source_the-last-face",
+    "title": "The Last Face"
+  },
+  "canon_72": {
+    "id": "source_the-last-face",
+    "title": "The Last Face"
+  },
+  "canon_73": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_74": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_75": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_76": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_77": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_78": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_79": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_80": {
+    "id": "source_the-altan-pursuit-of-trilium-the-kandor-disaster-bigwils",
+    "title": "The Altan Pursuit of Trilium: The Kandor Disaster - BigWils"
+  },
+  "canon_81": {
+    "id": "source_dense-legacy",
+    "title": "Dense Legacy"
+  },
+  "canon_82": {
+    "id": "source_dense-legacy",
+    "title": "Dense Legacy"
+  },
+  "canon_83": {
+    "id": "source_the-nordic-legacy-a-hunt-for-lost-triactors",
+    "title": "The Nordic Legacy: A Hunt for Lost Triactors"
+  },
+  "canon_add_85": {
+    "id": "source_cutting-teeth",
+    "title": "Cutting Teeth"
+  },
+  "canon_84": {
+    "id": "source_cutting-teeth",
+    "title": "Cutting Teeth"
+  },
+  "canon_85": {
+    "id": "source_cutting-teeth",
+    "title": "Cutting Teeth"
+  },
+  "canon_86": {
+    "id": "source_cutting-teeth",
+    "title": "Cutting Teeth"
+  },
+  "canon_87": {
+    "id": "source_cutting-teeth",
+    "title": "Cutting Teeth"
+  },
+  "canon_88": {
+    "id": "source_cutting-teeth",
+    "title": "Cutting Teeth"
+  },
+  "canon_89": {
+    "id": "source_the-fragile-balance",
+    "title": "The Fragile Balance"
+  },
+  "canon_add_92": {
+    "id": "source_shadows-of-the-elgems-1",
+    "title": "Shadows Of The Elgems 1"
+  },
+  "canon_add_93": {
+    "id": "source_shadows-of-the-elgem-2",
+    "title": "Shadows of the Elgem 2"
+  },
+  "canon_add_94": {
+    "id": "source_the-onoros-expansion-1",
+    "title": "The Onoros Expansion 1"
+  },
+  "canon_add_95": {
+    "id": "source_the-onoros-expansion-2",
+    "title": "the Onoros Expansion 2"
+  },
+  "canon_add_96": {
+    "id": "source_onoros-lore",
+    "title": "Onoros Lore"
+  },
+  "canon_90": {
+    "id": "source_the-trilium-gambit-how-the-atlans-outsmarted-the-desert-lord",
+    "title": "The Trilium Gambit: How the Atlans Outsmarted the Desert Lord"
+  },
+  "canon_91": {
+    "id": "source_the-triluminati",
+    "title": "The Triluminati"
+  },
+  "canon_92": {
+    "id": "source_the-triluminati",
+    "title": "The Triluminati"
+  },
+  "canon_93": {
+    "id": "source_echoes-of-naron",
+    "title": "Echoes of Naron"
+  },
+  "canon_94": {
+    "id": "source_echoes-of-naron",
+    "title": "Echoes of Naron"
+  },
+  "canon_add_102": {
+    "id": "source_frontiers-of-naron",
+    "title": "Frontiers of Naron"
+  },
+  "canon_95": {
+    "id": "source_frontiers-of-naron",
+    "title": "Frontiers of Naron"
+  },
+  "canon_add_104": {
+    "id": "source_across-the-stars-by-exoplanetocean",
+    "title": "Across the Stars by @exoplanetocean"
+  },
+  "canon_add_105": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_96": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_97": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_98": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_99": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_100": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_101": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_102": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_103": {
+    "id": "source_the-water-barons-guild-of-naron",
+    "title": "THE WATER BARONS GUILD OF NARON"
+  },
+  "canon_104": {
+    "id": "source_altan-explorer-survey-velgemmis-homeworld-of-the-elgem-part-5-the-elgem",
+    "title": "Altan Explorer Survey: Velgemmis - Homeworld of the Elgem, Part 5: The Elgem"
+  },
+  "canon_105": {
+    "id": "source_altan-explorer-survey-velgemmis-homeworld-of-the-elgem-part-5-the-elgem",
+    "title": "Altan Explorer Survey: Velgemmis - Homeworld of the Elgem, Part 5: The Elgem"
+  },
+  "canon_106": {
+    "id": "source_altan-explorer-survey-velgemmis-homeworld-of-the-elgem-part-5-the-elgem",
+    "title": "Altan Explorer Survey: Velgemmis - Homeworld of the Elgem, Part 5: The Elgem"
+  },
+  "canon_107": {
+    "id": "source_altan-explorer-survey-velgemmis-homeworld-of-the-elgem-part-5-the-elgem",
+    "title": "Altan Explorer Survey: Velgemmis - Homeworld of the Elgem, Part 5: The Elgem"
+  },
+  "canon_108": {
+    "id": "source_altan-explorer-survey-velgemmis-homeworld-of-the-elgem-part-5-the-elgem",
+    "title": "Altan Explorer Survey: Velgemmis - Homeworld of the Elgem, Part 5: The Elgem"
+  },
+  "canon_add_119": {
+    "id": "lore_worlds_85",
+    "title": "Cradle of secrets"
+  }
+}
