@@ -22,4 +22,4 @@ Use the portal submission form to prepare a GitHub issue. Long manuscripts are d
 
 Build exports 49 complete works, 210 entity dossiers, 2100 reading sections and 46 verified PR narratives from checked-in sources. Hashes verify exact full text. Supplementary PR content is not silently promoted to canon; unknown governance is not live voting data. Upstream source changes require a reviewed source update and rebuild. Private runtime accounts/data are never part of the Pages export.
 
-The server-edition source remains for recovery, but is not deployed to Pages. Real wallet-provider interaction on the final HTTPS origin must still be checked with the owner’s wallet.
+Historical source-processing modules remain for the build, but no server is deployed to Pages. Real wallet-provider interaction on the final HTTPS origin must still be checked with the owner’s wallet.

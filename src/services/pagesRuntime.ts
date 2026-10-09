@@ -1,7 +1,7 @@
 import {pagesIdentity,getPagesIdentity,updatePagesProfile} from './pagesIdentity';
 import {pagesPlayer,configurePagesPlayerIdentity} from './pagesPlayer';
 import {pagesLore} from './pagesLore';
-export const PAGES=(import.meta as any).env.VITE_PAGES==='true';
+export const PAGES=(import.meta as any).env.VITE_PAGES!=='false';
 export const REPO='https://github.com/RwdRo/Community-Lore-Portal';
 export function openSubmission(title:string,content:string){
  if(content.length>5000){const url=URL.createObjectURL(new Blob([content],{type:'text/markdown'}));const a=document.createElement('a');a.href=url;a.download='lore-manuscript.md';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
